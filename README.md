@@ -1,0 +1,2 @@
+# Copernicus-RS
+initiate project
